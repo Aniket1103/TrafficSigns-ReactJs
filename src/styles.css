@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 60%;
+  margin-bottom: 0.4rem;
+}
+
+.signs-display {
+  display: inline-block;
+  margin: 0.6rem 1rem;
+  padding: 0.19rem;
+  /* padding: 0.6rem 1rem; */
+}
+
+#test {
+  background-color: yellow;
+}
+
+#meaning {
+  padding: 1rem;
+  font-weight: bold;
+  font-size: larger;
+}
+
+/* li {
+  display: inline;
+  padding: 0.5rem 1rem;
+
+} */
+
+#drk-bg {
+  background-color: rgb(194, 184, 184);
+}
